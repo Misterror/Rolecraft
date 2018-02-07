@@ -13,7 +13,7 @@ import org.caliog.Rolecraft.Items.ItemEffect;
 import org.caliog.Rolecraft.Spells.Menu.SpellMenu;
 import org.caliog.Rolecraft.XMechanics.Menus.MenuManager;
 
-import net.md_5.bungee.api.ChatColor;
+import org.bukkit.ChatColor;
 
 public class Spellbook extends CustomItem {
 
